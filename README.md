@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Nithesh Gowda H G Banner" />
+  <!-- <img src="banner.png" width="100%" alt="Nithesh Gowda H G Banner" /> -->
 </p>
 
 <!-- Hero Section -->
