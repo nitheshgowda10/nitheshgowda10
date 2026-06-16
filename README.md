@@ -11,16 +11,14 @@
   </p>
 
   <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7aa2f7&background=1a1b2600&center=true&vCenter=true&width=600&height=50&lines=Data+Analyst;Power+BI+Developer;SQL+%26+Business+Intelligence;Full+Stack+Developer" alt="Typing SVG" />
-    </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7aa2f7&background=1a1b2600&center=true&vCenter=true&width=600&height=50&lines=Data+Analyst;Power+BI+Developer;SQL+%26+Business+Intelligence;Full+Stack+Developer" alt="Typing SVG" />
   </p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/nithesh-gowda-h-g-ba1b08299/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:nitheshgowda10@gmail.com">
+    <a href="mailto:gowdanithesh28@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/nitheshgowda10" target="_blank">
@@ -109,31 +107,21 @@ Developed a full-stack platform featuring geographical querying, booking managem
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nitheshgowda10&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=nitheshgowda10&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=nitheshgowda10&show_icons=true&theme=tokyonight&count_private=true" alt="Nithesh's GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nitheshgowda10&show_icons=true&theme=tokyonight&count_private=true" alt="Nithesh's GitHub Stats" />
   &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheshgowda10&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheshgowda10&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/convictional/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nitheshgowda10&theme=tokyonight" alt="GitHub Streak Stats" width="100%" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=nitheshgowda10&theme=tokyonight" alt="GitHub Streak Stats" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitheshgowda10&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitheshgowda10&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ---
