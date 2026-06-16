@@ -104,11 +104,7 @@ Developed a full-stack platform featuring geographical querying, booking managem
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitheshgowda10&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+### 📈 GitHub Activity Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nitheshgowda10&show_icons=true&theme=tokyonight&count_private=true" alt="Nithesh's GitHub Stats" />
